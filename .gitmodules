@@ -1,0 +1,3 @@
+[submodule "custom/hellotest"]
+	path = custom/hellotest
+	url = https://transcoma.visualstudio.com/DefaultCollection/Odoo%20Transcoma/_git/hellotest
